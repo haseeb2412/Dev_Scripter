@@ -1008,3 +1008,8 @@ button:hover {
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
     /* Your CSS styles for iPads here */
   }
+
+  /* For iPads */
+  @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Your CSS styles for iPads here */
+  }
